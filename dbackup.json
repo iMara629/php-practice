@@ -1,0 +1,7 @@
+{
+	"fn": "Sam",
+	"ln": "Garcia",
+	"city": "New York",
+	"borough": "Brooklyn",
+	"skills": ["HTML", "CSS", "JS"]
+}
